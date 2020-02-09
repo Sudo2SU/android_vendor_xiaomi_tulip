@@ -1322,5 +1322,4 @@ PRODUCT_PACKAGES += \
     FingerprintExtensionService \
     PowerOffAlarm \
     TimeService \
-    WfdCommon \
-    chargeonlymode
+    WfdCommon
